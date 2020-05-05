@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1588699976 source:c:\users\Ислам\desktop\3.2\aeroplane.cpp
+	"aeroplane.h"
+	<string>
+	<iostream>
+
+1588700080 c:\users\Ислам\desktop\3.2\aeroplane.h
+	<string>
+	"transport.h"
+
+1588700080 c:\users\Ислам\desktop\3.2\transport.h
+	<string>
+
+1588699976 source:c:\users\Ислам\desktop\3.2\avto.cpp
+	"avto.h"
+	<string>
+
+1588700080 c:\users\Ислам\desktop\3.2\avto.h
+	<string>
+	"transport.h"
+
+1588699976 source:c:\users\Ислам\desktop\3.2\bus.cpp
+	"bus.h"
+	<string>
+	<iostream>
+
+1588700080 c:\users\Ислам\desktop\3.2\bus.h
+	<string>
+	"transport.h"
+
+1588699976 source:c:\users\Ислам\desktop\3.2\car.cpp
+	"car.h"
+	<string>
+	<iostream>
+
+1588700080 c:\users\Ислам\desktop\3.2\car.h
+	<string>
+	"avto.h"
+
+1588699976 source:c:\users\Ислам\desktop\3.2\steamboat.cpp
+	"steamboat.h"
+	<string>
+	<iostream>
+
+1588700080 c:\users\Ислам\desktop\3.2\steamboat.h
+	<string>
+	"transport.h"
+
+1588700080 source:c:\users\Ислам\desktop\3.2\transport.cpp
+	"transport.h"
+
+1588699976 source:c:\users\Ислам\desktop\3.2\main.cpp
+	<iostream>
+	<string>
+	"transport.h"
+	"avto.h"
+	"car.h"
+	"aeroplane.h"
+	"bus.h"
+	"steamboat.h"
+
